@@ -1,6 +1,7 @@
 # JavaScript-NODE
 CS_546 Labs
 All the labs are semi projects using NODE.JS and Mongo DB.
+
 LAB 1: Initial introduction to the NODE.JS
 
 Lab 2: This metric will print out a variety of shapes on your console
